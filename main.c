@@ -115,4 +115,6 @@ int main(int argc, char *argv[]) {
   free(vetorDocentes);
 
   return 0;
+
+  //Artur
 }
