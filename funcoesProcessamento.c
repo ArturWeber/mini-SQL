@@ -405,4 +405,6 @@ int funcaoWhere(char *vetorInicialWhere, int menuWhere){
     } 
 
     return menuWhere;
+
+    //Brenner
 }
