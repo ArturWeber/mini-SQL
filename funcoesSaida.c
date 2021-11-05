@@ -190,3 +190,5 @@ void printarSaida(structDocentes *vetorDocentes, structProgs *vetorProgs,structT
         }
     }
 }
+
+//Artur
